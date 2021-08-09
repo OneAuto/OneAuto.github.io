@@ -1,37 +1,144 @@
 ## Welcome to OneAuto Club
 
-You can use the [editor on GitHub](https://github.com/OneAuto/OneAuto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tools & Tech covered: 
+	✓	Core Java
+	✓	Selenium Library
+	✓	Maven Build tool
+	✓	Eclipse IDE
+	✓	BDD Cucumber
+	✓	TestNG
+	✓	Apache POI Library
+	✓	Git (GitHUB)
+	✓	Jenkins
+	✓	JIRA 
+	✓	Agile process.
+	✓	MySQL & JDBC Driver
 
-### Markdown
+# Forecast: 
+- 6 weeks - 30 days - Daily 2hrs = 60 hrs
+- Timings: Mon-Fri @7am to 9am
+- Mode of class: Online using *Teachmint*
+- fee - 5000/-
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Student Benefits
+	•	Access to Github Selenium project with examples
+	•	Study material
+	•	Weekly Objective Quiz from interview questions
+	•	Access to Recordings
 
-```markdown
-Syntax highlighted code block
+# Syllabus
+## Week 1 - OOPS! to YaY! - JAVA
 
-# Header 1
-## Header 2
-### Header 3
+	Day 1: Start small & simple
+		Session 1: Classes, Object, Variables, methods
+		Session 2: Lets build the Calculator
 
-- Bulleted
-- List
+	Day 2: 
+		Session 1: If else, for, do, while  (Control flow)
+		Session 2: Lets build the ATM Software
 
-1. Numbered
-2. List
+	Day 3: 
+		Session 1: Inheritance, polymorphism and encapsulation
+		Session 2: Lets build EMI Calculator
 
-**Bold** and _Italic_ and `Code` text
+	Day 4: 
+		Session 1: Interface, abstract class
+		Session 2: Practise
 
-[Link](url) and ![Image](src)
-```
+	Day 5: 
+		Session 1: Collections
+		Session 2: Practise
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Week 2- Selenium + MAVEN
 
-### Jekyll Themes
+	Day 6: 
+		Session 1: Tell me About yourself? I am Selenium….
+		Session 2: Record and Run with Selenium IDE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OneAuto/OneAuto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	Day 7: 
+		Session 1: As you know me, time to introduce my Big Bro Maven
+		Session 2: Just launch Google.com like a rocket!
 
-### Support or Contact
+	Day 8: 
+		Session 1: There are many ways I can find you (Locators)
+		Session 2: Baby steps! Click, Type, navigate, quit
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	Day 9: I am toddler now, I can handle 
+		Session 1: checkbox, radio button, dropdown
+		Session 2: Get text, status, title, url, screenshot etc
+
+	Day 10: Time to switch & Karate
+		Session 1: Switch To- Alerts, iFrame, Window
+		Session 2: Actions
+
+## Week 3 - Page Object Model+ Cucumber
+
+	Day 11: 
+		Session 1: Handing web tables
+		Session 2: Synchronisation- Implicit, explicit, Fluent, WebDriver wait
+
+	Day 12: Tech debt
+
+	Day 13: 
+		Session 1: Page Object Model
+		Session 2: Practice
+
+	Day 14:
+		Session 1: BDD + Cucumber approach
+		Session 2: write a feature file and run as a user
+
+	Day 15:
+		Session 1: Outline,examples,tags and runner class
+		Session 2: Reports 
+
+## Week4: TestNG + Apache POI + Log4J
+
+	Day 16: 
+		Session 1: TestNG Annotations and order
+		Session 2: Groups, Priority and dependents
+
+	Day 17: 
+		Session 1: Parameterisation, data provider and Parallel execution
+		Session 2: Listeners and reports
+
+	Day 18:
+		Session 1: Cross browser testing  using TestNG
+		Session 2:  Selenium RC & Grid
+
+	Day 19:
+		Session 1: Apache POI API Excel
+		Session 2: Properties and IO operations
+
+	Day 20: 
+		Session 1: log4j and headless 
+		Session 2: Techdebt
+
+## Week 5: Git + Jenkins + Agile Methodology + JIRA + MYSQL
+
+	Day 21:
+		Session 1: Git with GitHub integration
+		Session 2: Practice
+
+	Day 22: 
+		Session 1: Jenkins Introduction
+		Session 2: Maven CICD pipeline
+
+	Day 23:
+		Session 1: Agile methodologies
+		Session 2: JIRA to log bugs
+
+	Day 24: MYSQL- 
+		Session 1: Select  & Joins
+		Session 2: Insert and delete
+		
+	Day 25: Techdebt
+
+## Week 6:
+	
+	Tech debt
+	
+		
+
+
+*** Tech debt= technical debt = reserved for any pending or spill or over topics
