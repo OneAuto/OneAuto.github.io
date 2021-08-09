@@ -19,7 +19,6 @@
 - 6 weeks - 30 days - Daily 2hrs = 60 hrs
 - Timings: Mon-Fri @7am to 9am
 - Mode of class: Online using *Teachmint*
-- fee - 5000/-
 
 # Student Benefits
 	•	Access to Github Selenium project with examples
@@ -114,7 +113,7 @@
 		Session 1: log4j and headless 
 		Session 2: Techdebt
 
-## Week 5: Git + Jenkins + Agile Methodology + JIRA + MYSQL
+## Week 5: Git + Jenkins + JIRA + MYSQL
 
 	Day 21:
 		Session 1: Git with GitHub integration
@@ -125,20 +124,27 @@
 		Session 2: Maven CICD pipeline
 
 	Day 23:
-		Session 1: Agile methodologies
-		Session 2: JIRA to log bugs
+		Session 1: JIRA - bugs
+		Session 2: JIRA - wiki
 
-	Day 24: MYSQL- 
+	Day 24: Practice Sessions
+		
+	Day 25: Practice sessions
+
+## Week 6: MySQL + Agile Methodology
+
+	Day 26:
+		Session 1: Agile methodologies
+
+	Day 27: MYSQL- 
 		Session 1: Select  & Joins
 		Session 2: Insert and delete
-		
-	Day 25: Techdebt
-
-## Week 6:
 	
-	Tech debt
-	
+	Day 28: Practice Sessions
 		
-
-
-*** Tech debt= technical debt = reserved for any pending or spill or over topics
+	Day 29: Practice sessions
+	
+	Day 30: Practice Sessions
+		
+	
+	
