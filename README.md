@@ -1,4 +1,7 @@
 ## Welcome to OneAuto Club
+Upcoming Events
+Automation Course Overview - Aug 14 Saturday 7:00 PM to 7:30 PM IST
+Automation Couse-Aug : Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST 
 
 
 # Tools & Tech covered: 
