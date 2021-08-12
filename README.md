@@ -1,11 +1,11 @@
-## OneAuto Club
+#### OneAuto Club
 
 # Upcoming Events
-#### [Join Demo ](https://www.teachmint.com/enroll/954136472/607191325da510ab4d7ebe88){: .btn .btn-blue } Aug 14 Saturday 7:00 PM to 7:30 PM IST
+#### [Join Demo ](https://www.teachmint.com/enroll/954136472/607191325da510ab4d7ebe88){: .btn .btn-blue } 
+Aug 14 | Saturday | 7:00 PM to 7:30 PM IST
 
-####  [Join Classes ](https://www.teachmint.com/enroll/220278755/607191325da510ab4d7ebe88){: .btn .btn-green .mr-4 } Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST 
-
-<button type="button" name="button" class="btn">Button element</button>
+####  [Join Classes ](https://www.teachmint.com/enroll/220278755/607191325da510ab4d7ebe88){: .btn .btn-green .mr-4 } 
+Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST 
 
 # Tools & Tech covered: 
 	✓	Core Java
