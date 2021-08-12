@@ -119,7 +119,7 @@ Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST
 		Session 1: log4j and headless 
 		Session 2: Techdebt
 
-## Week 5: Git + Jenkins + JIRA + MYSQL
+## Week 5: Git + Jenkins + JIRA
 
 	Day 21:
 		Session 1: Git with GitHub integration
@@ -142,7 +142,7 @@ Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST
 	Day 26:
 		Session 1: Agile methodologies
 
-	Day 27: MYSQL- 
+	Day 27: MYSQL
 		Session 1: Select  & Joins
 		Session 2: Insert and delete
 	
