@@ -1,4 +1,3 @@
-#### 
 
 # Upcoming Events
 [Join Demo ](https://www.teachmint.com/enroll/954136472/607191325da510ab4d7ebe88)
