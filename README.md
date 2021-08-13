@@ -2,7 +2,7 @@
 
 [Join Demo    ](https://www.teachmint.com/enroll/954136472/607191325da510ab4d7ebe88) | Aug **14** | Sat | **7**PM to    **7:30**PM IST |
 
-[Join Classes ](https://www.teachmint.com/enroll/220278755/607191325da510ab4d7ebe88) | Aug **16** | Mon to     Fri | **7**AM to **9**AM IST 
+[Join Classes](https://www.teachmint.com/enroll/220278755/607191325da510ab4d7ebe88) | Aug **16** | Mon to     Fri | **7**AM to **9**AM IST 
 
 # Forecast: 
 - **Duration** 6 weeks - 30 days - Daily 2hrs = 60 hrs
