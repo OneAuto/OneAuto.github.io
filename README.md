@@ -27,10 +27,11 @@ Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST
 
 
 # Student Benefits
-	•	Access to Github Selenium project with examples
-	•	Study material
-	•	Weekly Objective Quiz from interview questions
-	•	Access to Recordings
+- Access to Github Selenium project with examples
+- Study material
+- Weekly Objective Quiz from interview questions
+- Access to Recordings
+- Career guidance 
 
 # Syllabus
 ## Week 1 - OOPS! to YaY! - JAVA
