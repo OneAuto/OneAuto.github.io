@@ -5,6 +5,11 @@ Aug 14 | Saturday | 7:00 PM to 7:30 PM IST
 [Join Classes ](https://www.teachmint.com/enroll/220278755/607191325da510ab4d7ebe88) 
 Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST 
 
+# Forecast: 
+- **Duration** 6 weeks - 30 days - Daily 2hrs = 60 hrs
+- **Timings** Mon-Fri @7am to 9am
+- **Mode of class** Online using *Teachmint (free app)*
+
 # Tools & Tech covered: 
 	✓	Core Java
 	✓	Selenium Library
@@ -19,10 +24,7 @@ Aug 16 | Mon-Fri | 7:00 AM to 9:00 AM IST
 	✓	Agile process.
 	✓	MySQL & JDBC Driver
 
-# Forecast: 
-- 6 weeks - 30 days - Daily 2hrs = 60 hrs
-- Timings: Mon-Fri @7am to 9am
-- Mode of class: Online using *Teachmint*
+
 
 # Student Benefits
 	•	Access to Github Selenium project with examples
