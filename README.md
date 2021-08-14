@@ -91,7 +91,7 @@
 ## Week 3 - Page Object Model+ Cucumber
 
 	Day 11: 
-		Session 1: Handing web tables
+		Session 1: Handling web tables
 		Session 2: Synchronisation- Implicit, explicit, Fluent, WebDriver wait
 
 	Day 12: Tech debt
