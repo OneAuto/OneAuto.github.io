@@ -164,4 +164,27 @@
 	Day 30: Practice Sessions
 		
 	
-	
+## FAQ
+
+##### Are these live classes or recordings? #####
+> All are **live classes**, and every class will be recorded and will be available 24/7 for students.
+
+##### What is the course fee? #####
+> Rs 5,000/-
+
+##### Is Teachmint app free? #####
+> Yes, supports Android , iOS and Desktop using any preferred brower.
+
+##### What if I miss any class? #####
+> All the live classes will be recorded and students will access to those recordings 24/7
+
+##### Can Students interact and ask doubts in live class? #####
+> Yes, Teachmint app allows students to raise their doubts either by unmuting or using text chat
+
+##### Will I get a certification? #####
+> Yes, you will get a course completion certificate fromo OneAuto Club.
+
+##### Who will be the instructor? #####
+> [Venkatesureddy Gajjela] (www.linkedin.com/in/venkatesureddygajjela), Venkat is working IT profressional with 10+ years of experience in Automation and DevOps.
+
+
