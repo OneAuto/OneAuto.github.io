@@ -173,18 +173,18 @@
 > Rs 5,000/-
 
 ##### Is Teachmint app free? #####
-> Yes, supports Android , iOS and Desktop using any preferred brower.
+> **Yes**, supports Android , iOS and Desktop using any preferred brower.
 
 ##### What if I miss any class? #####
-> All the live classes will be recorded and students will access to those recordings 24/7
+> All the live classes will be recorded and students will can access 24/7
 
 ##### Can Students interact and ask doubts in live class? #####
-> Yes, Teachmint app allows students to raise their doubts either by unmuting or using text chat
+> **Yes**, Teachmint app allows students to raise their doubts either by unmuting or using text chat
 
 ##### Will I get a certification? #####
-> Yes, you will get a course completion certificate fromo OneAuto Club.
+> **Yes**, you will get a course completion certificate fromo OneAuto Club.
 
 ##### Who will be the instructor? #####
-> [Venkatesureddy Gajjela] (www.linkedin.com/in/venkatesureddygajjela), Venkat is working IT profressional with 10+ years of experience in Automation and DevOps.
+> [Venkatesureddy Gajjela] (http://linkedin.com/in/venkatesureddygajjela) **Venkat** is working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
 
 
