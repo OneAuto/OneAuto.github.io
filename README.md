@@ -166,25 +166,25 @@
 	
 # FAQ
 
-##### Are these live classes or recordings? #####
+#### Are these live classes or recordings? ####
 > All are **live classes**, and every class will be recorded and will be available 24/7 for students.
 
-##### What is the course fee? #####
+#### What is the course fee? ####
 > Rs 5,000/-
 
-##### Is Teachmint app free? #####
+#### Is Teachmint app free? ####
 > **Yes**, supports Android , iOS and Desktop using any preferred brower.
 
-##### What if I miss any class? #####
+#### What if I miss any class? ####
 > All the live classes will be recorded and students will can access 24/7
 
-##### Can Students interact and ask doubts in live class? #####
+#### Can Students interact and ask doubts in live class? ####
 > **Yes**, Teachmint app allows students to raise their doubts either by unmuting or using text chat
 
-##### Will I get a certification? #####
+#### Will I get a certification? ####
 > **Yes**, you will get a course completion certificate from OneAuto Club.
 
-##### Who will be the instructor? #####
+#### Who will be the instructor? ####
 
 > [Venkatesureddy Gajjela](https://linkedin.com/in/venkatesureddygajjela) **Venkat** is a working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
 
