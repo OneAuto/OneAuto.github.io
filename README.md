@@ -173,7 +173,7 @@
 > Rs 5,000/-
 
 #### Is Teachmint app free? ####
-> **Yes**, supports Android , iOS and Desktop using any preferred brower.
+> **Yes**, supports Android , iOS and Desktop using any preferred browser.
 
 #### Where to download Teachmint app? ####
 > * [Android Playstore](https://play.google.com/store/apps/details?id=com.teachmint.teachmint&hl=en_IN&gl=US)
