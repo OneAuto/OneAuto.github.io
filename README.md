@@ -182,9 +182,9 @@
 > **Yes**, Teachmint app allows students to raise their doubts either by unmuting or using text chat
 
 ##### Will I get a certification? #####
-> **Yes**, you will get a course completion certificate fromo OneAuto Club.
+> **Yes**, you will get a course completion certificate from OneAuto Club.
 
 ##### Who will be the instructor? #####
-> [Venkatesureddy Gajjela] (http://linkedin.com/in/venkatesureddygajjela) **Venkat** is working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
+- [ Venkatesureddy Gajjela ] (https://linkedin.com/in/venkatesureddygajjela) **Venkat** is working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
 
 
