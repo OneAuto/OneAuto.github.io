@@ -26,11 +26,21 @@
 
 
 # Student Benefits
-- Access to Github Selenium project with examples
-- Study material
-- Weekly Objective Quiz from interview questions
-- Access to Recordings
+- Get lifetime access to 
+	* Selenium Concepts with Examples
+	* Core java Concepts with Examples
+	* Java Interview questions with answers
+	* Selenium Interview questions with answers
+	* Study Materials
+- Life time access to Recordings
+- Course completion certificate
 - Career guidance 
+
+# Who can join this course?
+- Manual and Functional Testers
+- DevOps engineers
+- Anyone who have intersest to learn Automation!
+
 
 # Syllabus
 ## Week 1 - OOPS! to YaY! - JAVA
