@@ -186,9 +186,8 @@
 
 ##### Who will be the instructor? #####
 
-[Venkatesureddy Gajjela](https://linkedin.com/in/venkatesureddygajjela) **Venkat** is a working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
+> [Venkatesureddy Gajjela](https://linkedin.com/in/venkatesureddygajjela) **Venkat** is a working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
 
 # Contact
-> Call or Whatsapp : +91 6309596569
-***
-> Email: <GVReddy1265@Gmail.com>
+> * Call or Whatsapp : +91 6309596569
+> * Email: <GVReddy1265@Gmail.com>
