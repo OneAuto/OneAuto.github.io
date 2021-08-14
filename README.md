@@ -164,7 +164,7 @@
 	Day 30: Practice Sessions
 		
 	
-## FAQ
+# FAQ
 
 ##### Are these live classes or recordings? #####
 > All are **live classes**, and every class will be recorded and will be available 24/7 for students.
@@ -185,6 +185,9 @@
 > **Yes**, you will get a course completion certificate from OneAuto Club.
 
 ##### Who will be the instructor? #####
-- [ Venkatesureddy Gajjela ] (https://linkedin.com/in/venkatesureddygajjela) **Venkat** is working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
+[Venkatesureddy Gajjela] (https://linkedin.com/in/venkatesureddygajjela) **Venkat** is a working IT profressional with **10+** years of experience in **Automation** and **DevOps**.
 
 
+# Contact
+> Call or Whatsapp : +91 6309596569
+> Email: GVReddy1265@Gmail.com
