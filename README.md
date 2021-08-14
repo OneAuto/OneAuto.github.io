@@ -38,6 +38,7 @@
 
 # Who can join this course?
 - Manual and Functional Testers
+- Freshers
 - DevOps engineers
 - Anyone who have intersest to learn Automation!
 
