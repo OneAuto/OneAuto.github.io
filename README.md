@@ -176,8 +176,8 @@
 > **Yes**, supports Android , iOS and Desktop using any preferred brower.
 
 #### Where to download Teachmint app? ####
-> [Android Playstore](https://play.google.com/store/apps/details?id=com.teachmint.teachmint&hl=en_IN&gl=US)
-> [iOS Appstore](https://apps.apple.com/in/app/teachmint-live-teaching-app/id1544210597)
+> * [Android Playstore](https://play.google.com/store/apps/details?id=com.teachmint.teachmint&hl=en_IN&gl=US)
+> * [iOS Appstore](https://apps.apple.com/in/app/teachmint-live-teaching-app/id1544210597)
 
 #### What if I miss any class? ####
 > All the live classes will be recorded and students will can access 24/7
