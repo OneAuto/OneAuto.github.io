@@ -1,6 +1,6 @@
 #### **Upcoming Events**
 
-[![Watch Course Demo](img/thumb.jpeg)](https://www.youtube.com/watch?v=t338I_pVwpo)
+[![Watch Course Demo](img/myth.jpeg)](https://www.youtube.com/watch?v=t338I_pVwpo)
 
 
 [Join Classes](https://www.teachmint.com/enroll/220278755/607191325da510ab4d7ebe88) | Aug **16** | **Mon** to     **Fri** | **7**AM to **9**AM IST 
